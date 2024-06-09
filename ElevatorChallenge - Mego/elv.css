@@ -1,0 +1,13 @@
+.elevater{
+    position: relative;
+    margin-top: 2625px;
+}
+img{
+    height: 110px;
+    bottom: 2625px;
+}
+
+.container{
+    width: 50px;
+    display: flex;
+}
